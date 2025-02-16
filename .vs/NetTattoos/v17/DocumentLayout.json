@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|c:\\studia\\2024-25\\.net\\nettattoos\\nettattoos.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|solutionrelative:nettattoos.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|c:\\studia\\2024-25\\.net\\nettattoos\\nettattoos.web\\views\\visits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|solutionrelative:nettattoos.web\\views\\visits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|c:\\studia\\2024-25\\.net\\nettattoos\\nettattoos.web\\views\\visits\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|solutionrelative:nettattoos.web\\views\\visits\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|c:\\studia\\2024-25\\.net\\nettattoos\\nettattoos.web\\views\\visits\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|solutionrelative:nettattoos.web\\views\\visits\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|c:\\studia\\2024-25\\.net\\nettattoos\\nettattoos.web\\models\\entities\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50DFD69-FD3A-4F41-BD84-26322D07D192}|NetTattoos.Web\\NetTattoos.Web.csproj|solutionrelative:nettattoos.web\\models\\entities\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Models\\Entities\\Visit.cs",
+              "RelativeDocumentMoniker": "NetTattoos.Web\\Models\\Entities\\Visit.cs",
+              "ToolTip": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Models\\Entities\\Visit.cs",
+              "RelativeToolTip": "NetTattoos.Web\\Models\\Entities\\Visit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:34:40.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetTattoos.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NetTattoos.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T21:20:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\Add.cshtml",
+              "RelativeDocumentMoniker": "NetTattoos.Web\\Views\\Visits\\Add.cshtml",
+              "ToolTip": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\Add.cshtml",
+              "RelativeToolTip": "NetTattoos.Web\\Views\\Visits\\Add.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T21:36:49.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\List.cshtml",
+              "RelativeDocumentMoniker": "NetTattoos.Web\\Views\\Visits\\List.cshtml",
+              "ToolTip": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\List.cshtml",
+              "RelativeToolTip": "NetTattoos.Web\\Views\\Visits\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T22:24:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NetTattoos.Web\\Views\\Visits\\Edit.cshtml",
+              "ToolTip": "C:\\Studia\\2024-25\\.NET\\NetTattoos\\NetTattoos.Web\\Views\\Visits\\Edit.cshtml",
+              "RelativeToolTip": "NetTattoos.Web\\Views\\Visits\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T22:08:05.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Dodawanie wizyty";
+}
+
+@model NetTattoos.Web.Models.AddVisitViewModel
+
+<br>
+<h2 class="text-center">Formularz wizyt</h2>
+
+<div class="d-flex flex-column align-items-center pt-5">
+    <form class="mb-4 w-25" method="post">
+        <div class="mb-2">
+            <label class="col-form-label">Imię</label>
+            <input type="text" class="form-control" name="name" asp-for="Name" required>
+        </div>
+        <div class="mb-2">
+            <label class="col-form-label">Nazwisko</label>
+            <input type="text" class="form-control" name="surname" asp-for="Surname" required>
+        </div>
+        <div class="mb-2">
+            <label class="col-form-label">Email</label>
+            <input type="email" class="form-control" name="email" asp-for="Email" required>
+        </div>
+        <div class="mb-2">
+            <label class="col-form-label">Temat wizyty</label>
+            <select class="form-control" name="visit_type" asp-for="Visit_type" required>
+                <option value="Konsultacja">Konsultacja</option>
+                <option value="Tatuaż">Tatuaż</option>
+                <option value="Usunięcie tatuażu">Usunięcie tatuażu</option>
+                <option value="Inny">Inny</option>
+            </select>
+        </div>
+        <div class="mb-4">
+            <label class="col-form-label">Termin wizyty</label>
+            <input type="date" class="form-control" name="visit_date" asp-for="Visit_date" required>
+        </div>
+
+        <div class="row d-flex justify-content-center align-items-center mb-3">
+            <div class="col d-grid">
+                <a class="btn btn-outline-primary" href="/Visits/List" role="button">Anuluj</a>
+            </div>
+            <div class="col d-grid">
+                <button type="submit" class="btn btn-primary">Utwórz wizytę</button>
+            </div>
+        </div>
+    </form>
+</div>
